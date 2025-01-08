@@ -1,2 +1,2 @@
 # Bank Account Management System (Console App) 
-Made this for my Fundamentals of C Programming Class
+Made this using C for my Fundamentals of C Programming Class
